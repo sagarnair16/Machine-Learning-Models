@@ -1,0 +1,5 @@
+1. Select a significant level to enter and stay in the model eg:- SLENTER=0.05, SLSTAY=0.05.
+2. Perform next step of forward slection.(var must have p<sl to enter)
+3.Perform all steps of backwards elimination.(old var(s) must have p<sl to stay).
+4. Iterate through 2 and 3 untill no variables can enter or exit the model.
+5. Model ready.

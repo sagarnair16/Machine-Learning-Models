@@ -1,0 +1,4 @@
+1. Select a significance level to enter the model (SL=0.05)
+2. Fit all simple regression models y to x select one with lowest p value
+3. Keep this variable and fit all possible models with one extra predictor added to the one(s) that you already have.
+4. Consider the predictor with the lowest P-Value. P<SL goto step 3 or finish.

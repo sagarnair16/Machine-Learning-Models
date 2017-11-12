@@ -1,0 +1,5 @@
+1. Select a significane level to stay in model.(sl=0.05)
+2. Fit the model with all possible predictors.
+3. Consider the predictor with highest P value. If p>SL goto step 4 or finish.
+4. remove the predictor.
+5. Fit the new model again
